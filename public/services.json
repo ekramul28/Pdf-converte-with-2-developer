@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "PDF to Word Conversion",
+        "image": "https://i.ibb.co/TLbjfwt/PDF-to-Word.jpg",
+        "feature": "Convert PDFs to editable Word documents.",
+        "benefit": "Allows users to easily edit and customize PDF content in Word, making it ideal for students, professionals, and businesses who need to work with PDF content in a more flexible format."
+    },
+    {
+        "id": 2,
+        "name": "Word to PDF Conversion",
+        "image": "https://i.ibb.co/R9jgY5G/download-5.png",
+        "feature": "Convert Word documents to PDF format.",
+        "benefit": "Simplifies document sharing and ensures compatibility across devices and platforms, making it essential for creating professional documents and reports."
+    },
+    {
+        "id": 3,
+        "name": "Merge PDFs",
+        "image": "https://i.ibb.co/mX8j2wH/media-1a0a3d7f57dc1381ab6553e88e4eac76b2e21c17b.jpg",
+        "feature": "Combine multiple PDFs into a single document.",
+        "benefit": "Streamlines document organization and presentation, useful for anyone dealing with large PDF files, such as researchers, teachers, and office administrators."
+    },
+    {
+        "id": 4,
+        "name": "PDF to PowerPoint Conversion",
+        "image": "https://i.ibb.co/DKNHQHp/ppt-to-pdf.png",
+        "feature": "Convert PDF presentations to editable PowerPoint slides.",
+        "benefit": "Facilitates easy customization and modification of presentation content, a valuable tool for educators, presenters, and students."
+    },
+    {
+        "id": 5,
+        "name": "PDF to Excel Conversion",
+        "image": "https://i.ibb.co/QP2Kh8B/pdfexcel.png",
+        "feature": "Convert PDF tables into Excel spreadsheets.",
+        "benefit": "Speeds up data extraction and analysis, crucial for financial professionals, researchers, and data analysts."
+    },
+    {
+        "id": 6,
+        "name": "PDF to JPG Conversion",
+        "image": "https://i.ibb.co/jDrx2CP/download-2.png",
+        "feature": "Convert PDF pages to image files (JPEG).",
+        "benefit": "Allows for image extraction from PDFs, beneficial for designers, graphic artists, and those working with visual content."
+    },
+    {
+        "id": 7,
+        "name": "JPG to PDF Conversion",
+        "image": "https://i.ibb.co/CvHn5LF/download-3.png",
+        "feature": "Convert image files (JPEG) to PDF documents.",
+        "benefit": "Enables users to compile multiple images into a single PDF file, handy for photographers, students, and anyone needing to create PDF albums."
+    },
+    {
+        "id": 8,
+        "name": "Excel to PDF Conversion",
+        "image": "https://i.ibb.co/4MmDZQh/download-4.png",
+        "feature": "Convert Excel spreadsheets to PDF format.",
+        "benefit": "Ensures easy sharing and preservation of Excel data while maintaining formatting, a time-saver for businesses and financial analysts."
+    },
+    {
+        "id": 9,
+        "name": "Page Numbering",
+        "image": "https://i.ibb.co/09GCF6w/pagenumber.png",
+        "feature": "Add page numbers to PDF documents.",
+        "benefit": "Enhances document organization and professionalism, particularly useful for publishers, authors, and legal professionals."
+    },
+    {
+        "id": 10,
+        "name": "Sign to PDF",
+        "image": "https://i.ibb.co/MVrL0Qb/images-3.png",
+        "feature": "Digitally sign PDF documents.",
+        "benefit": "Provides a secure and legally accepted way to sign and certify PDFs, crucial for contracts, agreements, and legal documents."
+    }
+]
